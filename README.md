@@ -1,4 +1,4 @@
-#Pokemon Random Card
+POKEMON RANDOM CARD
 
 Application with Javascript where a new pokemon card appears with each browser reload.
 
